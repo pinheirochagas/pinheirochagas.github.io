@@ -1,0 +1,48 @@
+body {
+    margin: 40px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'CMU Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    font-family:'CMU Serif';
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    font-family:'CMU Serif';
+    text-decoration: none;
+    color: #888;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 2em;
+    font-family:'CMU Serif';
+}
+p {
+    font-family:'CMU Serif';
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: 1em;
+}
+
+ul.posts { 
+    font-family:'CMU Serif';
+    margin: 20px auto 40px; 
+    font-size: 1em;
+}
+
+ul.posts li {
+    font-family:'CMU Serif';
+    list-style: none;
+}
