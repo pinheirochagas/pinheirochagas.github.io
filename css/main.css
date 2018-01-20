@@ -25,7 +25,7 @@ a:hover {
 
 a.ext {
     font-family:'CMU Serif';
-    text-decoration: underline overline;
+    text-decoration: underline;
     color: #000;
 }
 
