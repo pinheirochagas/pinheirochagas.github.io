@@ -18,9 +18,22 @@ a {
     text-decoration: none;
     color: #888;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
+a.ext {
+    font-family:'CMU Serif';
+    text-decoration: underline overline;
+    color: #000;
+}
+
+a.ext:hover {
+    text-decoration: blink;
+}
+
+
 h1 {
     font-size: 2em;
     font-family:'CMU Serif';
