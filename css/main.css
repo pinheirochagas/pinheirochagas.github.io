@@ -33,6 +33,16 @@ a.ext:hover {
     text-decoration: blink;
 }
 
+a.paper {
+    font-family:'Source Serif Pro', serif;
+    text-decoration: underline;
+    color: #f01818;
+}
+
+a.paper:hover {
+    text-decoration: blink;
+}
+
 
 h1 {
     font-size: 2em;
