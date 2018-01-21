@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family:'Source Serif Pro', serif;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: none;
 }
 nav ul li, footer ul li {
     font-family:'Source Serif Pro', serif;
