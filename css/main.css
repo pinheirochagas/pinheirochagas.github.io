@@ -3,18 +3,18 @@ body {
     width: 50%;
 }
 nav ul, footer ul {
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     display: inline;
     margin-right: 20px;
 }
 a {
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     text-decoration: none;
     color: #888;
 }
@@ -24,7 +24,7 @@ a:hover {
 }
 
 a.ext {
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     text-decoration: underline;
     color: #000;
 }
@@ -36,17 +36,17 @@ a.ext:hover {
 
 h1 {
     font-size: 2em;
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
 }
 p {
-    font-family:'Playfair Display', serif;
+    font-family:'Source Serif Pro', serif;
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
@@ -58,12 +58,12 @@ footer {
 }
 
 ul.posts { 
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     margin: 20px auto 40px; 
     font-size: 1em;
 }
 
 ul.posts li {
-    font-family:'CMU Serif';
+    font-family:'Source Serif Pro', serif;
     list-style: none;
 }
