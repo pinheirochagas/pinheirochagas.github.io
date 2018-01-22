@@ -1,9 +1,9 @@
 body {
-
+ text-align: center
 }
 
 div#container { 
- width: 960px; 
+ width: 500px; 
  text-align: left; 
  margin: 0 auto 
 }
