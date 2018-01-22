@@ -48,7 +48,15 @@ h1 {
     font-size: 2em;
     font-family:'Source Serif Pro', serif;
 }
+
 p {
+    font-family:'Source Serif Pro', serif;
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+li {
     font-family:'Source Serif Pro', serif;
     font-size: 1em;
     line-height: 1.4em;
