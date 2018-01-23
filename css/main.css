@@ -96,6 +96,6 @@ ul.posts li {
 }
 
 img.pic {
-  object-fit: contain;
+  object-fit: cover;
 }
 
