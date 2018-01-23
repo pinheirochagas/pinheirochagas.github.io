@@ -3,6 +3,12 @@ body {
     width: 50%;
 }
 
+img.pic {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
 
 @media only screen and (max-width: 1020px) {
   body {
@@ -95,10 +101,5 @@ ul.posts li {
     list-style: none;
 }
 
-img.pic {
-  display: block;
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
-}
+
 
