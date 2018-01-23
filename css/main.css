@@ -94,3 +94,8 @@ ul.posts li {
     font-family:'Source Serif Pro', serif;
     list-style: none;
 }
+
+img.pic {
+  object-fit: contain;
+}
+
