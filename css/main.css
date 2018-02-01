@@ -49,7 +49,7 @@ a:hover {
 
 a.ext {
     font-family:'Source Serif Pro', serif;
-    text-decoration: underline;
+    text-decoration: none;
     color: #000;
 }
 
