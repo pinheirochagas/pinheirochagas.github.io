@@ -59,6 +59,7 @@ a.paper:hover {
 h1 {
     font-size: 2em;
     font-family:'Computer Modern Serif', serif;
+    font-weight: normal
 }
 
 p {
