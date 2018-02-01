@@ -36,7 +36,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: overline;
 }
 
 a.ext {
@@ -46,7 +46,7 @@ a.ext {
 }
 
 a.ext:hover {
-    text-decoration: underline wavy;
+    text-decoration: overline;
 }
 
 a.paper {
@@ -56,7 +56,7 @@ a.paper {
 }
 
 a.paper:hover {
-    text-decoration: underline wavy;
+    text-decoration: overline;
 }
 
 
