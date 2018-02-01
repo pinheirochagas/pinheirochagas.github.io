@@ -3,14 +3,6 @@ body {
     width: 50%;
 }
 
-@font-face {
-    font-family: "Harabara Bold";
-    src: url("css/fonts/Harabara.eot");
-    src: 
-    url("css/fonts/Harabara.woff") format("woff"),
-    url("css/fonts/Harabara.otf") format("opentype"),
-    url("css/fonts/Harabara.svg#filename") format("svg");
-}
 
 img.pic {
   display: block;
@@ -33,12 +25,12 @@ nav ul, footer ul {
     font-weight: none;
 }
 nav ul li, footer ul li {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     display: inline;
     margin-right: 20px;
 }
 a {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     text-decoration: none;
     color: #888;
 }
@@ -48,29 +40,29 @@ a:hover {
 }
 
 a.ext {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     text-decoration: none;
     color: #000;
 }
 
 a.ext:hover {
-    text-decoration: blink;
+    text-decoration: underline wavy;
 }
 
 a.paper {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     text-decoration: none;
     color: #f01818;
 }
 
 a.paper:hover {
-    text-decoration: underline;
+    text-decoration: underline wavy;
 }
 
 
 h1 {
     font-size: 2em;
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
 }
 
 p {
@@ -81,14 +73,14 @@ p {
 }
 
 li {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
@@ -100,13 +92,13 @@ footer {
 }
 
 ul.posts { 
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     margin: 20px auto 40px; 
     font-size: 1em;
 }
 
 ul.posts li {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     list-style: none;
 }
 
