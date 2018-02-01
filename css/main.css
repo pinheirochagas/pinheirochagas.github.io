@@ -3,6 +3,15 @@ body {
     width: 50%;
 }
 
+@font-face {
+    font-family: "Harabara Bold";
+    src: url("css/fonts/Harabara.eot");
+    src: 
+    url("css/fonts/Harabara.woff") format("woff"),
+    url("css/fonts/Harabara.otf") format("opentype"),
+    url("css/fonts/Harabara.svg#filename") format("svg");
+}
+
 img.pic {
   display: block;
   width: 100vw;
@@ -65,7 +74,7 @@ h1 {
 }
 
 p {
-    font-family:'Source Serif Pro', serif;
+    font-family:'Computer Modern Serif', serif;
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
