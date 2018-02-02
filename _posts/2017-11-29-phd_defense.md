@@ -9,10 +9,10 @@ Today I defended my PhD dissertation entitled<a href="/publications/dissertation
 
 The amazing members of the jury were:
 
-- <a href="https://scholar.google.com/citations?user=jhhSqLwAAAAJ&hl=en" class="ext" target="_blank"><b>Wim Fias</b></a>(Ghent University).
-- <a href="https://scholar.google.com/citations?user=GzEVXoEAAAAJ&hl=fr" class="ext" target="_blank"><b>Christian Bénar</b></a>(Aix-Marseille University).
-- <a href="https://scholar.google.fr/citations?user=yfXow7cAAAAJ&hl=en" class="ext" target="_blank"><b>Lionel Naccache</b></a>(ICM-Paris).
-- <a href="https://scholar.google.com/citations?user=MsJPAwMAAAAJ&hl=en" class="ext" target="_blank"><b>Elizabeth Spelke</b></a>(Harvard University).
+- <a href="https://scholar.google.com/citations?user=jhhSqLwAAAAJ&hl=en" class="ext" target="_blank"><b>Wim Fias</b></a> (Ghent University).
+- <a href="https://scholar.google.com/citations?user=GzEVXoEAAAAJ&hl=fr" class="ext" target="_blank"><b>Christian Bénar</b></a> (Aix-Marseille University).
+- <a href="https://scholar.google.fr/citations?user=yfXow7cAAAAJ&hl=en" class="ext" target="_blank"><b>Lionel Naccache</b></a> (ICM-Paris).
+- <a href="https://scholar.google.com/citations?user=MsJPAwMAAAAJ&hl=en" class="ext" target="_blank"><b>Elizabeth Spelke</b></a> (Harvard University).
 
 
 
