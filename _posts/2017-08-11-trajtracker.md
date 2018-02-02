@@ -19,8 +19,9 @@ For more details, see our website:<a href="http://trajtracker.com" class="ext" t
 To join our mailing list and get more updates, click <a href="https://groups.google.com/forum/#%21forum/trajtracker-users" class="ext" target="_blank">here</a> or e-mail us.
 
 We hope you will find this tool useful!
-
-
+  
+  
+  
 Dror Dotan  
 Pedro Pinheiro-Chagas  
 Stanislas Dehaene  
