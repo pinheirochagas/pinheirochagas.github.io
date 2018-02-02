@@ -71,7 +71,13 @@ a.paper:hover {
 h1 {
     font-size: 2em;
     font-family:'Computer Modern Serif', serif;
-    font-weight: normal
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.2em;
+    font-family:'Computer Modern Serif', serif;
+    font-weight: bold;
 }
 
 p {
