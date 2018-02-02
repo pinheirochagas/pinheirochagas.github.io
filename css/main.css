@@ -75,7 +75,13 @@ h1 {
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.5;
+    font-family:'Computer Modern Serif', serif;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 1em;
     font-family:'Computer Modern Serif', serif;
     font-weight: bold;
 }
