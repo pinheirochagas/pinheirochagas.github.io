@@ -28,12 +28,12 @@ nav ul li, footer ul li {
 }
 a {
     font-family:'Computer Modern Serif', serif;
-    text-decoration: none;
+    text-decoration: overline;
     color: #000;
 }
 
 a:hover {
-    text-decoration: overline;
+    text-decoration: overline underline;
 }
 
 a.int {
@@ -48,12 +48,12 @@ a.int:hover {
 
 a.ext {
     font-family:'Computer Modern Serif', serif;
-    text-decoration: overline;
+    text-decoration: none;
     color: #000;
 }
 
 a.ext:hover {
-    text-decoration: underline;
+    text-decoration: overline;
 }
 
 a.paper {
