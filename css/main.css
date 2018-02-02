@@ -29,10 +29,20 @@ nav ul li, footer ul li {
 a {
     font-family:'Computer Modern Serif', serif;
     text-decoration: none;
-    color: #888;
+    color: #000;
 }
 
 a:hover {
+    text-decoration: overline;
+}
+
+a.int {
+    font-family:'Computer Modern Serif', serif;
+    text-decoration: none;
+    color: #888;
+}
+
+a.int:hover {
     text-decoration: overline;
 }
 
@@ -93,7 +103,7 @@ footer {
 ul.posts { 
     font-family:'Computer Modern Serif', serif;
     margin: 20px auto 40px; 
-    font-size: 1em;
+    font-size: 3em;
 }
 
 ul.posts li {
