@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TrajTracker: a new tool for creating finger-tracking experiments"
+title: "TrajTracker release!"
 date: 2017-08-11
 ---
 
