@@ -14,7 +14,7 @@ TrajTracker provides:
 
 - A Matlab toolbox for analyzing the results
 
-<a href="http://trajtracker.com" class="ext" target="_blank">For more details, see our website: http://trajtracker.com</a>
+For more details, see our website:<a href="http://trajtracker.com" class="ext" target="_blank"> <b>http://trajtracker.com</b>></a>
 
 To join our mailing list and get more updates, click <a href="https://groups.google.com/forum/#%21forum/trajtracker-users" class="ext" target="_blank">here</a> or e-mail us.
 
