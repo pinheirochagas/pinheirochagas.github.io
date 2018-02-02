@@ -7,6 +7,11 @@ img.pic {
   object-fit: cover;
 }
 
+.responsive {
+    width: 100%;
+    height: auto;
+    }
+
 @media only screen and (max-width: 1020px) {
   body {
     margin: 1px auto;
