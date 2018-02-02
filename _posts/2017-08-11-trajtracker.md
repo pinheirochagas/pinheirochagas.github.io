@@ -4,7 +4,7 @@ title: "TrajTracker: a new tool for creating finger-tracking experiments"
 date: 2017-08-11
 ---
 
-We are glad to announce the release of <b>Trajtracker</b>, a python-based platform for creating trajectory tracking experiments on desktops / tablets / smartphones.
+We are glad to announce the release of <a href="http://trajtracker.com" class="ext" target="_blank"><b>TrajTracker</b>></a>, a python-based platform for creating trajectory tracking experiments on desktops / tablets / smartphones.
 
 TrajTracker provides:
 
@@ -21,7 +21,7 @@ To join our mailing list and get more updates, click <a href="https://groups.goo
 We hope you will find this tool useful!
   
   
-  
+
 Dror Dotan  
 Pedro Pinheiro-Chagas  
 Stanislas Dehaene  
