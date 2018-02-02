@@ -16,7 +16,7 @@ TrajTracker provides:
 
 For more details, see our website:<a href="http://trajtracker.com" class="ext" target="_blank"> <b>http://trajtracker.com</b></a>
 
-To join our mailing list and get more updates, click <a href="https://groups.google.com/forum/#%21forum/trajtracker-users" class="ext" target="_blank">here</a> or e-mail us.
+To join our mailing list and get more updates, click <a href="https://groups.google.com/forum/#%21forum/trajtracker-users" class="ext" target="_blank"><b>here</b></a> or e-mail us.
 
 We hope you will find this tool useful!
   
