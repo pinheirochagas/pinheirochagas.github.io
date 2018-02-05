@@ -4,7 +4,7 @@ title: "PhD defense"
 date: 2017-11-29
 ---
 
-Today I defended my PhD dissertation entitled <a href="#" class="ext" target="_blank"><b>Characterizing the neurocognitive mechanisms of arithmetic</b></a>, supervised by <a href="https://scholar.google.com/citations?user=2Dd5uoIAAAAJ" class="ext" target="_blank"><b>Stanislas Dehaene</b></a> and co-supervised by <a href="https://scholar.google.com/citations?user=by8C-jMAAAAJ" class="ext" target="_blank"><b>Manuela Piazza</b></a> (Trento University, Italy) at the <a href="http://www.unicog.org/site_2016/" class="ext" target="_blank"><b>CEA-NeuroSpin Center</b></a> in the outskirts of Paris!
+Today I defended my PhD dissertation entitled <a href="/publications/dissertation_pinheiro-chagas.pdf" class="ext" target="_blank"><b>Characterizing the neurocognitive mechanisms of arithmetic</b></a>, supervised by <a href="https://scholar.google.com/citations?user=2Dd5uoIAAAAJ" class="ext" target="_blank"><b>Stanislas Dehaene</b></a> and co-supervised by <a href="https://scholar.google.com/citations?user=by8C-jMAAAAJ" class="ext" target="_blank"><b>Manuela Piazza</b></a> (Trento University, Italy) at the <a href="http://www.unicog.org/site_2016/" class="ext" target="_blank"><b>CEA-NeuroSpin Center</b></a> in the outskirts of Paris!
 
 
 The amazing members of the jury were:
