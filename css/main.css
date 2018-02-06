@@ -47,6 +47,10 @@ a.int:hover {
     text-decoration: overline;
 }
 
+a.int:focus {
+    text-decoration: overline;
+}
+
 a.ext {
     font-family:'Computer Modern Serif', serif;
     text-decoration: none;
@@ -93,6 +97,8 @@ p {
     color: #333;
     text-align: justify;
 }
+
+
 
 li {
     font-family:'Computer Modern Serif', serif;
