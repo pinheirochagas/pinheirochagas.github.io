@@ -10,7 +10,7 @@ img.pic {
 
 @media only screen and (max-width: 768px) {
   body {
-    margin: 1px auto;
+    margin: 100px auto;
     width: 95%;
     font-size: 0.9em
   }
