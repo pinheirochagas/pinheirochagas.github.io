@@ -93,7 +93,7 @@ h3 {
 
 p {
     font-family:'Computer Modern Serif', serif;
-    font-size: 0.8em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
@@ -103,14 +103,14 @@ p {
 
 li {
     font-family:'Computer Modern Serif', serif;
-    font-size: 0.8em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
     font-family:'Computer Modern Serif', serif;
-    font-size: 0.8em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
