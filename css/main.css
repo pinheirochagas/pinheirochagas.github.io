@@ -12,7 +12,7 @@ img.pic {
   body {
     margin: 100px auto;
     width: 95%;
-    font-size: 1em
+    font-size: 0.8em
   }
 }
 
@@ -41,7 +41,7 @@ a.int {
     font-family:'Computer Modern Serif', serif;
     text-decoration: none;
     color: #888;
-    font-size: 1.1em;
+    font-size: 0.8em;
 }
 
 a.int:hover {
@@ -93,7 +93,7 @@ h3 {
 
 p {
     font-family:'Computer Modern Serif', serif;
-    font-size: 1em;
+    font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
@@ -103,14 +103,14 @@ p {
 
 li {
     font-family:'Computer Modern Serif', serif;
-    font-size: 1em;
+    font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
     font-family:'Computer Modern Serif', serif;
-    font-size: 1em;
+    font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
 }
