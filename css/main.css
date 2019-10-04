@@ -11,7 +11,7 @@ img.pic {
 @media only screen and (max-width: 768px) {
   body {
     width: 95%;
-    font-size: 0.8em
+    font-size: 1em
   }
 }
 
@@ -99,6 +99,15 @@ h4 {
 p {
     font-family:'Computer Modern Serif', serif;
     font-size: 0.85em;
+    line-height: 1.4em;
+    color: #333;
+    text-align: justify;
+    /* This is most of the text */
+}
+
+pcv {
+    font-family:'Computer Modern Serif', serif;
+    font-size: 0.95em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
