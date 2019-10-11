@@ -40,7 +40,7 @@ a.int {
     font-family:'Computer Modern Serif', serif;
     text-decoration: none;
     color: #888;
-    font-size: 0.8em;
+    font-size: 0.85em;
 }
 
 a.int:hover {
@@ -73,13 +73,13 @@ a.paper:hover {
 
 
 h1 {
-    font-size: 1.7em;
+    font-size: 1.6em;
     font-family:'Computer Modern Serif', serif;
     font-weight: normal;
 }
 
 h2 {
-    font-size: 1.2;
+    font-size: 1.1;
     font-family:'Computer Modern Serif', serif;
     font-weight: normal;
 }
@@ -98,7 +98,7 @@ h4 {
 
 p {
     font-family:'Computer Modern Serif', serif;
-    font-size: 0.85em;
+    font-size: 0.87em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
@@ -107,7 +107,7 @@ p {
 
 pcv {
     font-family:'Computer Modern Serif', serif;
-    font-size: 0.95em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
@@ -118,7 +118,7 @@ pcv {
 
 li {
     font-family:'Computer Modern Serif', serif;
-    font-size: 1.5em;
+    font-size: 1.6em;
     line-height: 1.4em;
     color: #333;
 }
@@ -127,7 +127,7 @@ li {
 
 ul {
     font-family:'Computer Modern Serif', serif;
-    font-size: 0.85em;
+    font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
 }

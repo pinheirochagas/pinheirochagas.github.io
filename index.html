@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="blurb">
-	<h2>Pedro Pinheiro-Chagas</h2>
+	<h1>Pedro Pinheiro-Chagas</h1>
 	<!--<img src="/figures/pedro_4.jpg" class = "responsive" alt="Pedro" width="700.0297" height="249.7774"> -->
 	<img src="/figures/figwebsite2.png" class = "responsive" alt="Pedro">
 
@@ -18,6 +18,14 @@ layout: default
 
 
 	<!-- <p class="animated infinite bounce">Example</p> -->
+    &nbsp
+
+	<h2>News</h2>
+	<ul class="posts">
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
 
 
 </div><!-- /.blurb -->
