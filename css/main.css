@@ -7,6 +7,10 @@ img.pic {
   object-fit: cover;
 }
 
+.container img {
+    width: 50%;
+    height: auto;
+}
 
 @media only screen and (max-width: 768px) {
   body {
