@@ -7,8 +7,13 @@ img.pic {
   object-fit: cover;
 }
 
-.container img {
+container2 img {
     width: 50%;
+    height: auto;
+}
+
+.container img {
+    width: 100%;
     height: auto;
 }
 
