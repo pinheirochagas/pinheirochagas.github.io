@@ -3,6 +3,22 @@ title: Pedro Pinheiro-Chagas
 layout: default
 ---
 
+<div class="blurb" style="text-align:center;">
+	<h1>Pedro Pinheiro-Chagas</h1>
+	<img src="/figures/figwebsite2.png" class="container" alt="Pedro">
+
+	<p style="font-size:1.25em; margin-top:1.5em;">
+		🎉 We are live! Visit the <b>UCSF NeuroAI Lab</b> at
+		<a href="https://neuroailab.ucsf.edu/" class="ext" target="_blank"><b>neuroailab.ucsf.edu</b></a>
+	</p>
+
+	<p>
+		<a href="https://neuroailab.ucsf.edu/" class="ext" target="_blank"><b>➜ Enter neuroailab.ucsf.edu</b></a>
+	</p>
+</div><!-- /.blurb -->
+
+<!-- Previous content kept for reference:
+
 <h1><a href="brain_pedro.html" class="ext" target="_blank">Pedro Pinheiro-Chagas</a></h1>
 
 <img src="/figures/figwebsite2.png" class = "container" alt="Pedro">
@@ -17,3 +33,6 @@ I did my PhD with <a href="https://scholar.google.com/citations?user=2Dd5uoIAAAA
 <a href="https://www.patrickroger.com/" class="ext" target="_blank">Paris</a>.</p>
 
 <br/><center>+++<a class="paper" title="Download full CV" href="/cv/pinheiro-chagas_nih_biosketch.pdf"> Bio 	Sketch </a>+++</center>
+
+-->
+
